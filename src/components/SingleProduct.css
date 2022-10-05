@@ -1,0 +1,10 @@
+.products {
+    width: 30%;
+    margin: 10px;
+}
+
+@media(max-width:771px) {
+    .products {
+        width: 100%;
+    }
+}
